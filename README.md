@@ -1,0 +1,2 @@
+# BadogueTendencias 
+Badogue Tendencias 
